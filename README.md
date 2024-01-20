@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ompatel2420
 - 👀 I’m interested in web development and mobile application development
-- 🌱 I’m currently learning flutter,java,javascript and some oops concepts
+- 🌱 I’m currently learning flutter,java and some oops concepts
 - 💞️ I’m looking to collaborate on small startup projects
 - 📫 How to reach me, can text me on insta ompatel.2420
 
